@@ -16,7 +16,6 @@ Analisis ini mengeksplorasi data fatalitas penerbangan global selama 50+ tahun u
 
 ## 🔍 Temuan Kunci
 ### 1. Tren Temporal
-![Tren Tahunan](https://i.imgur.com/abc123.png)
 - Penurunan **96%** fatalitas sejak 1970 (4.76 → 0.05 per juta penumpang)
 - 3 titik ekstrim:
   - Puncak: 1973 (5.65)
