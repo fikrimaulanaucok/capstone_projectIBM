@@ -1,6 +1,7 @@
 # 📊 Analisis Tren Fatalitas Penerbangan Global (1970-2021)
 **Capstone Project - AI Data Analytics**  
-![Aviation Safety](https://drive.google.com/file/d/1gqe9z-M7WIXBV_C4Cqp45U1CQBVvGMtv/view?usp=sharing)
+![Aviation Safety]
+![alt text](https://drive.google.com/file/d/1gqe9z-M7WIXBV_C4Cqp45U1CQBVvGMtv/view?usp=sharing?raw=true)
 
 ## 📌 Gambaran Proyek
 Analisis ini mengeksplorasi data fatalitas penerbangan global selama 50+ tahun untuk mengidentifikasi:
